@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Donald's Hompage"
+title                    : "Donald's Homepage"
 title_separator          : "-"
 name                     : &name "Donald Yang"
 description              : &description "A software and DevOps enthusiast with a knack for system administration and data integration."
