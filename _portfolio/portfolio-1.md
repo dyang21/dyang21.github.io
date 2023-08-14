@@ -1,5 +1,5 @@
 ---
-title: "Continuous Data Integration/Deployment System (CDIS)"
+title: "CDIS"
 excerpt: "A scalable platform designed to simulate the generation of sensor data, process this data, and visualize it using Flask.<br/><img src='/images/CIDS.png'>"
 collection: portfolio
 ---
