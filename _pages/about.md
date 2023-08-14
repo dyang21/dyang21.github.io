@@ -24,7 +24,7 @@ During my time at Deltek as a System Administrator Intern, I managed the End of 
 
 Apart from my professional engagements, my natural curiosity has led me to develop several personal projects. 
 
-From creating a [virtual home lab](https://github.com/dyang21/Virtual-HomeLab) to building a [continuous data integration system](https://github.com/dyang21/Continuous-Data-Integration-System), I thrive on challenges and diversifying my technical portfolio.
+From creating a [virtual home lab](https://github.com/dyang21/Virtual-HomeLab) to building a [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System), I thrive on challenges and diversifying my technical portfolio.
 
 🏆 **Certifications & Awards:**
 

@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CDIS"
+excerpt: "A scalable platform designed to simulate the generation of sensor data, process this data, and visualize it using Flask. <br/><img src='/images/50.CIDS.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The project involves building a real-time analytics system that visualizes simulated sensor data on a static chart. Using Apache Kafka for data streaming, Docker and Kubernetes for containerization and orchestration, and Flask paired with Plotly for chart generation, the setup seamlessly aggregates and displays data, showing skills in application, data, and infrastructure architecture.
+
+You can find it [here](https://github.com/dyang21/Continuous-Data-Integration-Deployment-System/tree/main).
