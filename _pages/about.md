@@ -12,13 +12,13 @@ redirect_from:
 ![Linux Penguin Wearing a Fedora](/images/penguin.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
-As a graduate of Binghamton University with a degree in Computer Science, I offer a comprehensive skill set that encompasses various programming languages including Python, C++, and Bash. I'm adept with platforms such as Docker, Kubernetes, Linux, and VMWare vSphere.
+I graduated from Binghamton University with a degree in Computer Science. Over the years, I've honed my skills in languages like Python, C++, and Bash. Beyond programming, I'm well-versed with platforms like Docker, Kubernetes, Linux, and VMWare vSphere.
 
-Additionally, I leverage tools like Kafka, Jenkins, and Flask to address a diverse array of technical challenges.
+I also have a knack for leveraging tools such as Kafka, Jenkins, and Flask to tackle a wide range of technical challenges. Excited to bring this diverse skill set to new endeavors!
 
 🛠️ **Professional Experience:**
 
-During my time at Deltek as a System Administrator Intern, I managed the End of Life cycle for Windows Server 2012 R2 and developed various automation scripts. I also served as a Technical Aide at Tottenville High School, where I actively worked in a team to adjust, build, and prepare technology equipment to cater to the needs of students.
+During my time at Deltek as a System Administrator Intern, I managed the End of Life cycle for Windows Server 2012 R2 and developed various automation scripts. I also served as a Technical Aide at Tottenville High School, where I actively worked in a team to build and prepare technology equipment to cater to the needs of students.
 
 🔍 **Curiosity & Creation:** 
 
