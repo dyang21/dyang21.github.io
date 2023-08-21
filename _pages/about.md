@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-![Linux Penguin Wearing a Fedora](/images/penguin.png){: .align-right width="250px"}
+![Linux Penguin Wearing a Fedora](/images/NewProfilePic.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
 I graduated from Binghamton University with a degree in Computer Science. Over the years, I've honed my skills in languages like Python, C++, and Bash. Beyond programming, I'm well-versed with platforms like Docker, Kubernetes, Linux, and VMWare vSphere.
