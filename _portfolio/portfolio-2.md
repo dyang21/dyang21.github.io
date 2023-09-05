@@ -1,6 +1,6 @@
 ---
 title: "Virtual HomeLab"
-excerpt: "After I achieving my Security+ Certification in 2020, I applied myself to design and implement a network topology. <br/><img src='/images/VirtualHomeLab0Updated.png' width='250px'>"
+excerpt: "After I achieving my Security+ Certification in 2020, I applied myself to design and implement a network topology. <br/><img src='/images/VirtualHomeLab0Updated.png' width='300px'>"
 collection: portfolio
 ---
 
