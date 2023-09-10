@@ -12,19 +12,21 @@ redirect_from:
 ![Linux Penguin Wearing a Fedora](/images/NewProfilePic.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
-I graduated from Binghamton University with a degree in Computer Science. Over the years, I've honed my skills in languages like Python, C++, and Bash. Beyond programming, I'm well-versed with platforms like Docker, Kubernetes, Linux, and VMWare vSphere.
+I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has equipped me with a strong foundation in programming languages like Python, C++, and Bash, as well as a wide array of skills and tools like Wireshark. 
 
-I also have a knack for leveraging tools such as Kafka, Jenkins, and Flask to tackle a wide range of technical challenges. Excited to bring this diverse skill set to new endeavors!
+I also have a knack for leveraging tools such as Docker, Kubernetes, Linux, VMWare vSphere, Kafka, Jenkins, and Flask.
 
 🛠️ **Professional Experience:**
 
-During my time at Deltek as a System Administrator Intern, I managed the End of Life cycle for Windows Server 2012 R2 and developed various automation scripts. I also served as a Technical Aide at Tottenville High School, where I actively worked in a team to build and prepare technology equipment to cater to the needs of students.
+As a System Administrator Intern at Deltek, I played a pivotal role in orchestrating the EOL transition for Windows Server 2012 R2 systems, ensuring system integrity and mitigating potential vulnerabilities. I streamlined server management procedures, improved IT communication strategies, and facilitated knowledge transfer through comprehensive documentation and training sessions.
+
+During my time as a Technical Aide at Tottenville High School, I optimized computer setups for school use, configured networking equipment, and ensured students had functional systems.
 
 🔍 **Curiosity & Creation:** 
 
 Apart from my professional engagements, my natural curiosity has led me to develop several personal projects. 
 
-From creating a [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) to building a [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System), I thrive on challenges and diversifying my technical portfolio.
+From creating a [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) to building a robust [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) I am passionate about tackling challenging projects within the realm of software engineering and IT. My dedication to these endeavors reflects my commitment to mastering and excelling in these fields.
 
 🏆 **Certifications & Awards:**
 
