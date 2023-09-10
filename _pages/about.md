@@ -26,8 +26,7 @@ During my time as a Technical Aide at Tottenville High School, I optimized compu
 
 Apart from my professional engagements, my natural curiosity has led me to develop several personal projects. 
 
-From creating a [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) to building a robust [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) I am passionate about tackling challenging projects within the realm of software engineering and IT. My dedication to these endeavors reflects my commitment to mastering and excelling in these fields.
-
+From creating a [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) to building a robust [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) I am passionate about tackling challenging projects within the realm of software engineering and IT. My dedication to these endeavors reflects my commitment to mastering and excelling in these closely interconnected fields.
 🏆 **Certifications & Awards:**
 
 - **Security+ (2020-2026)**: I am [certified](https://www.credly.com/badges/2303fc55-39c7-4af1-a53e-553e16bd6107/linked_in_profile) with Security+, showcasing my proficiency in the cybersecurity domain.
