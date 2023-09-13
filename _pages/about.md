@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello there! I'm Donald Yang."
-excerpt: "A software, IT, and DevOps enthusiast with a knack for system administration and data integration."
+excerpt: "A software and IT enthusiast with a knack for system administration and data integration."
 author_profile: true
 redirect_from: 
   - /about/
