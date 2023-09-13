@@ -14,8 +14,6 @@ redirect_from:
 
 I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has equipped me with a strong foundation in programming languages like Python, C++, and Bash, as well as a wide array of skills and tools like Wireshark. 
 
-I also have a knack for leveraging tools such as Docker, Kubernetes, Linux, VMWare vSphere, Kafka, Jenkins, and Flask.
-
 In addition to software development, I possess a strong understanding of system administration tools and practices, with hands-on experience in tools such as VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins.
 
 🛠️ **Professional Experience:**
