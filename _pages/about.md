@@ -16,12 +16,7 @@ I'm a recent graduate from Binghamton University with a Bachelor of Science in C
 
 I also have a knack for leveraging tools such as Docker, Kubernetes, Linux, VMWare vSphere, Kafka, Jenkins, and Flask.
 
-👨🏻‍💻 **About Me**
-
-I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with proficiency in programming languages such as Python, C++, and Bash. 
-
 In addition to software development, I possess a strong understanding of system administration tools and practices, with hands-on experience in tools such as VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins.
-
 
 🛠️ **Professional Experience:**
 
