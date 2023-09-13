@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello there! I'm Donald Yang."
-excerpt: "A software and IT enthusiast with a knack for system administration and data integration."
+excerpt: "An IT and Software Engineering enthusiast with a passion for system administration, software development, and infrastructure management. "
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +16,13 @@ I'm a recent graduate from Binghamton University with a Bachelor of Science in C
 
 I also have a knack for leveraging tools such as Docker, Kubernetes, Linux, VMWare vSphere, Kafka, Jenkins, and Flask.
 
+👨🏻‍💻 **About Me**
+
+I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with proficiency in programming languages such as Python, C++, and Bash. 
+
+In addition to software development, I possess a strong understanding of system administration tools and practices, with hands-on experience in tools such as VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins.
+
+
 🛠️ **Professional Experience:**
 
 As a System Administrator Intern at Deltek, I played a pivotal role in orchestrating the EOL transition for Windows Server 2012 R2 systems, ensuring system integrity and mitigating potential vulnerabilities. I streamlined server management procedures, improved IT communication strategies, and facilitated knowledge transfer through comprehensive documentation and training sessions.
@@ -24,9 +31,11 @@ During my time as a Technical Aide at Tottenville High School, I optimized compu
 
 🔍 **Curiosity & Creation:** 
 
-Apart from my professional engagements, my natural curiosity has led me to develop several personal projects. 
+In addition to my professional engagements, I am an ardent developer and IT enthusiast. 
 
-From creating a [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) to building a robust [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) I am passionate about tackling challenging projects within the realm of software engineering and IT. My dedication to these endeavors reflects my commitment to mastering and excelling in these closely interconnected fields.
+From creating a [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) to building a robust [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) I am passionate about tackling challenging projects within the realm of software engineering and IT.
+
+My dedication to these endeavors reflects my commitment to mastering and excelling in these closely interconnected fields.
 
 🏆 **Certifications & Awards:**
 
