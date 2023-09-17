@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "👋🏼 Hello there! I'm Donald Yang."
-excerpt: "An IT and Software Engineering enthusiast with a passion for system administration, software development, and infrastructure management. "
+title: "👋🏼 Hello! I'm Donald Yang."
+excerpt: "A system administration and software development enthusiast, I believe in leveraging both domains to drive productivity in the IT landscape. "
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,13 +12,17 @@ redirect_from:
 ![Linux Penguin Wearing a Fedora](/images/NewProfilePic.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
-I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has equipped me with a strong foundation in programming languages like Python, C++, and Bash, as well as a wide array of skills and tools like Wireshark. 
+I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in programming languages such as Python, C++, and Bash, as well as expertise in tools like Wireshark.
 
-In addition to software development, I possess a strong understanding of system administration tools and practices, with hands-on experience in tools such as VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins.
+I have a keen interest in both system administration and software development, with hands-on experience in VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins. 
+
+My passion lies in the intersection of system administration and software development, where I believe the best IT professionals lie.
 
 🛠️ **Professional Experience:**
 
 As a System Administrator Intern at Deltek, I played a pivotal role in orchestrating the EOL transition for Windows Server 2012 R2 systems, ensuring system integrity and mitigating potential vulnerabilities. I streamlined server management procedures, improved IT communication strategies, and facilitated knowledge transfer through comprehensive documentation and training sessions.
+
+Additonally, I implemented automation scripts, which significantly increased productivity and efficiency in managing server tasks.
 
 During my time as a Technical Aide at Tottenville High School, I optimized computer setups for school use, configured networking equipment, and ensured students had functional systems.
 
