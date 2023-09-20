@@ -22,7 +22,7 @@ My passion lies in the intersection of system administration and software develo
 
 As a System Administrator Intern at Deltek, I played a pivotal role in orchestrating the EOL transition for Windows Server 2012 R2 systems, ensuring system integrity and mitigating potential vulnerabilities. I streamlined server management procedures, improved IT communication strategies, and facilitated knowledge transfer through comprehensive documentation and training sessions.
 
-Additonally, I implemented automation scripts, which significantly increased productivity and efficiency in managing server tasks.
+Additonally, I streamedlined processes through PowerShell, which significantly increased productivity and efficiency in managing server tasks.
 
 During my time as a Technical Aide at Tottenville High School, I optimized computer setups for school use, configured networking equipment, and ensured students had functional systems.
 
