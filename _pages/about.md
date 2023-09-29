@@ -12,7 +12,7 @@ redirect_from:
 ![Linux Penguin Wearing a Fedora](/images/NewProfilePic.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
-I'm a recent graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in programming languages such as Python, C++, and Bash, as well as expertise in tools like Wireshark.
+I'm a graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in programming languages such as Python, C++, and Bash, as well as expertise in tools like Wireshark.
 
 I have a keen interest in both system administration and software development, with hands-on experience in VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins. 
 
