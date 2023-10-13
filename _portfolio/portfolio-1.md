@@ -6,7 +6,7 @@ collection: portfolio
 
 My primary objective in designing this project was to showcase IT and software engineering skills through a technical challenge that AI couldn't address due to its inherent limitations.
 
-I presented a complex challenge that AI couldn't tackle due to its inability to comprehend objectives with multiple intricate moving parts and its information cutoff in 2021.
+I presented a complex challenge that ChatGPT couldn't handle due to its inability to comprehend objectives with multiple intricate moving parts and its information cutoff in 2021.
 
 The project involves building a real-time analytics system that visualizes simulated sensor data on a chart. 
 
