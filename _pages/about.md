@@ -20,7 +20,7 @@ My passion lies in the intersection of system administration and software develo
 
 Furthermore, my forward-thinking mindset enables me to proactively identify weaknesses within systems and processes. I excel in developing responsive solutions to address these challenges as demonstrated in my most recent personal project and my contributions at Deltek.
 
-In addition to my technical expertise, I am comfortable around people and possess exceptional interpersonal skills. I've applied these skills in various roles, such as when I was an ESL teacher at the Chinese American Planning Council, assisted students with IT at Tottenville HS, and worked with hundreds of users worldwide with varying technical abilities at Deltek, all while collaborating with a diverse global team.
+In addition to my technical skills, I am comfortable around people and possess strong interpersonal skills. I've applied these skills in various roles, such as when I was an ESL teacher at the Chinese American Planning Council, assisted students with IT at Tottenville HS, and worked with hundreds of users worldwide with varying technical abilities at Deltek, all while collaborating with a diverse global team.
 
 🛠️ **Professional Experience:**
 
