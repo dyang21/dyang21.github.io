@@ -16,9 +16,11 @@ I'm a graduate from Binghamton University with a Bachelor of Science in Computer
 
 I have a keen interest in both system administration and software development, with hands-on experience in VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins. 
 
-My passion lies in the intersection of system administration and software development. I believe in leveraging both domains to enhance productivity in the Technical landscape. 
+My passion lies in the intersection of system administration and software development. I believe in leveraging both domains to enhance productivity in the Technical landscape as shown during my internship at Deltek, where I served as a System Administrator.
 
-Additionally, my forward-thinking mindset enables me to proactively identify weaknesses within systems and processes. I excel in developing responsive solutions to address these challenges.
+Furthermore, my forward-thinking mindset enables me to proactively identify weaknesses within systems and processes. I excel in developing responsive solutions to address these challenges as demonstrated in my most recent personal project and my contributions at Deltek.
+
+In addition to my technical expertise, I am comfortable around people and possess exceptional interpersonal skills. I've applied these skills in various roles, such as when I was an ESL teacher at the Chinese American Planning Council, assisted students with IT at Tottenville HS, and worked with hundreds of users worldwide with varying technical abilities at Deltek, all while collaborating with a diverse global team.
 
 🛠️ **Professional Experience:**
 
