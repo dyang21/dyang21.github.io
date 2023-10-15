@@ -16,7 +16,7 @@ I'm a graduate from Binghamton University with a Bachelor of Science in Computer
 
 I have a keen interest in both system administration and software development, with hands-on experience in VMWare vSphere, Docker, Kubernetes, Linux, Kafka, and Jenkins. 
 
-My passion lies in the intersection of system administration and software development, where I believe the best IT professionals lie.
+My passion lies in the intersection of system administration and software development. I believe in leveraging both domains to enhance productivity in the Technical landscape. 
 
 🛠️ **Professional Experience:**
 
