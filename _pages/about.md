@@ -18,6 +18,8 @@ I have a keen interest in both system administration and software development, w
 
 My passion lies in the intersection of system administration and software development. I believe in leveraging both domains to enhance productivity in the Technical landscape. 
 
+Additionally, my forward-thinking mindset enables me to proactively identify weaknesses within systems and processes. I excel in developing responsive solutions to address these challenges.
+
 🛠️ **Professional Experience:**
 
 As a System Administrator Intern at Deltek, I played a pivotal role in orchestrating the EOL transition for Windows Server 2012 R2 systems, ensuring system integrity and mitigating potential vulnerabilities. I streamlined server management procedures, improved IT communication strategies, and facilitated knowledge transfer through comprehensive documentation and training sessions.
