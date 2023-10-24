@@ -40,4 +40,6 @@ My dedication to these endeavors reflects my commitment to mastering and excelli
 
 - **Security+ (2020-2026)**: I am [certified](https://www.credly.com/badges/2303fc55-39c7-4af1-a53e-553e16bd6107/linked_in_profile) with Security+, showcasing my proficiency in the cybersecurity domain.
   
-- **1st Place Team in Google Tech Challenge 2019 @ Binghamton University**: Demonstrated my problem-solving and teamwork abilities.
+- **1st Place Team - Google Tech Challenge 2019 @ Binghamton University**: Demonstrated my problem-solving and teamwork abilities.
+
+- **Finalist - New York City Science and Engineering Fair (NYCSEF)**: Showed my ability to design a [prototype](https://github.com/Ericthestein/NYC-311-Map-App) while working in a team.
