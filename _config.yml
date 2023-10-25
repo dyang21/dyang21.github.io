@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Donald's Homepage"
 title_separator          : "-"
 name                     : &name "Donald Yang"
-description              : &description "A system administration and software development enthusiast, I believe in leveraging both domains to drive productivity in the IT landscape."
+description              : &description "An IT and software development enthusiast, I believe in leveraging both domains to drive productivity in the IT landscape."
 url                      : https://dyang21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dyang21/dyang21.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Donald Yang"
   avatar           : "profile_photo.png"
-  bio              : "My passion lies in the intersection of system administration and software development. I believe in leveraging both domains to enhance productivity in a Technical landscape. "
+  bio              : "I believe in leveraging both domain in Software Engineering and IT to enhance productivity in a Technical landscape. "
   location         : "Brooklyn, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

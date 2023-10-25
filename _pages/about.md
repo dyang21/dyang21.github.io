@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello! I'm Donald Yang."
-excerpt: "A system administration and software development enthusiast, I believe in leveraging both domains to drive productivity in the IT landscape. "
+excerpt: "An IT and software development enthusiast, I believe in leveraging both domains to drive productivity in the IT landscape. "
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 
 I'm a graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in programming languages such as Python, C++, and Bash, as well as experience in tools like Wireshark.
 
-My passion lies in the intersection of system administration and software development. I believe in leveraging both domains to enhance productivity in the Technical landscape as shown during my internship at Deltek, where I served as a System Administrator in the IT Infrastructure Team.
+My passion lies in the intersection of IT and software development. I believe in leveraging both domains to enhance productivity in the Technical landscape as shown during my internship at Deltek, where I served as a System Administrator in the IT Infrastructure Team.
 
 Furthermore, my forward-thinking mindset enables me to proactively identify weaknesses within systems and processes. I excel in developing responsive solutions to address these challenges as demonstrated in my most recent personal project and my contributions at Deltek.
 
