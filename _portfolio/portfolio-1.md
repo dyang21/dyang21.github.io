@@ -10,7 +10,7 @@ I presented a complex challenge that ChatGPT couldn't handle due to its inabilit
 
 The project involves building a real-time analytics system that visualizes simulated sensor data on a chart. 
 
-Using Apache Kafka for data streaming, Docker and Kubernetes for containerization and orchestration, and Flask paired with Plotly for chart generation, the setup aggregates and displays data, showings skills in IT Security/Networking, data management, application development, and software infrastructure.
+Using Apache Kafka for data streaming, Docker and Kubernetes for containerization and orchestration, and Flask paired with Plotly for chart generation, the setup aggregates and displays data, showings skills in IT Security/Networking, data, application development, and software infrastructure.
 
 You can find it [here](https://github.com/dyang21/Continuous-Data-Integration-Deployment-System/tree/main).
 
