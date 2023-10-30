@@ -32,9 +32,9 @@ During my time as a Technical Aide at Tottenville High School, I optimized compu
 
 In addition to my professional engagements, I am an ardent developer and IT enthusiast. 
 
-I've created my [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) for hands-on learning after getting my CompTIA Security+ certification. Furthermore, I developed a [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System), known as CDIS, to demonstrate my technical skills in areas where ChatGPT falls short.
+I've created my [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) for hands-on learning after getting my CompTIA Security+ certification. Furthermore, I developed a [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) called CDIS. This was designed as a technical challenge that ChatGPT could not tackle due to its inherent limitations. Through this system, I aimed to showcase my skills in IT Security/Networking, data management, application development, and software infrastructure.
 
-My dedication to these endeavors reflects my commitment to mastering and excelling in these closely interconnected fields.
+My personal projects reflects my commitment to mastering and excelling in these closely interconnected fields.
 
 🏆 **Certifications & Awards:**
 
