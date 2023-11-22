@@ -1,12 +1,12 @@
 ---
 title: "CDIS"
-excerpt: "A scalable platform crafted to simulate sensor data generation, process that data, and present it via Flask. My primary objective in designing this project was to create a technical challenge that couldn't be constructed by AI due to its inherent limitations while showing my background in Software Engineering and IT.<br/><img src='/images/CIDS.png'>"
+excerpt: "A platform crafted to simulate sensor data generation, process that data, and present it via Flask. My primary objective in designing this project was to create a technical challenge that couldn't be constructed by ChatGPT due to its limitations both at the time of its creation. This project also showcases my background in Software Engineering, Data, and IT while demonstrating my ability to think unconventionally and showcase my skills in future-thinking methods.<br/><img src='/images/CIDS.png'>"
 collection: portfolio
 ---
 
-My primary objective in designing this project was to showcase software engineering and IT skills through a technical challenge that AI couldn't address due to its inherent limitations.
+My primary objective in designing this project was to create a technical challenge that couldn't be constructed by ChatGPT due to its limitations both at the time of its creation. This project also showcases my background in Software Engineering, Data, and IT while demonstrating my ability to think unconventionally and showcase my skills in future-thinking methods.
 
-I presented a complex challenge that ChatGPT couldn't handle due to its inability to comprehend objectives with multiple intricate moving parts and its information cutoff in 2021.
+I created a time-sensitive challenge that ChatGPT, at the time, couldn't address due to its limitations in comprehending objectives with multiple intricate moving parts and its information cutoff in 2021.
 
 The project involves building a real-time analytics system that visualizes simulated sensor data on a chart. 
 
