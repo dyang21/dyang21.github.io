@@ -32,7 +32,7 @@ During my time as a Computer Technical Assistant at Tottenville High School, I t
 
 In addition to my professional engagements, I am an ardent developer and IT enthusiast. 
 
-I've created my [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) for hands-on learning after getting my CompTIA Security+ certification. Furthermore, I developed a [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) called CDIS. This was time sensitive project because it was designed as a technical challenge that ChatGPT could not tackle due to its inherent limitations during the project development period. Through this system, I aimed to showcase my skills in IT Security/Networking, data management, application development, and software infrastructure.
+I've created my [virtual home lab](https://dyang21.github.io/portfolio/portfolio-2/) for hands-on learning after getting my CompTIA Security+ certification. Furthermore, I developed a [continuous data integration/deployment system](https://github.com/dyang21/Continuous-Data-Integration-System) called CDIS. This project was time-sensitive because it was designed as a technical challenge that ChatGPT could not effectively address due to its inherent limitations during the project development period. It shows my background in Software Engineering, Data, and IT while also highlighting my ability to think unconventionally and showcase my skills in future-thinking methods.
 
 My personal projects reflects my commitment to mastering and excelling in these closely interconnected fields.
 
