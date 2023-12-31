@@ -1,6 +1,6 @@
 ---
 title: "CDIS"
-excerpt: "A platform engineered to automate the integration and deployment processes for simulating real-time sensor data, processing this data, and interactively presenting it through Flask. This project showcases my background in Software Engineering, Data, and IT while demonstrating my ability to think unconventionally and showcase my skills in future-thinking methods.<br/><img src='/images/CDISProject.webp' width='300px'>"
+excerpt: "A platform engineered to automate the integration and deployment processes for simulating real-time sensor data, processing this data, and interactively presenting it through Flask. This project showcases my background in Software Engineering, Data, and IT while demonstrating my ability to think unconventionally and showcase my skills in future-thinking methods.<br/><img src='/images/CDISProject.webp' height='300px'>"
 
 collection: portfolio
 ---
