@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-![Linux Penguin Wearing a Fedora](/images/NewProfilePic.png){: .align-right width="250px"}
+![Linux Penguin Wearing a Fedora](/images/ProfileBackground.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
 I'm a graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in programming languages such as Python, C++, and C, as well as experience in tools like Wireshark.
