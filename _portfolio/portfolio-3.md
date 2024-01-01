@@ -1,6 +1,6 @@
 ---
 title: "Network Flow Chart 2019"
-excerpt: "I designed a Network Flow Chart after learning about the OSI layers in Staten Island Tech.<br/><img src='/images/NetworkFlowChart2019.png' width='300px'>"
+excerpt: "I designed a Network Flow Chart after learning about the OSI layers in Staten Island Tech.<br/><img src='/images/NetworkFlowChart2019.png' width='250px'>"
 collection: portfolio
 ---
 
