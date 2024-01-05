@@ -12,7 +12,7 @@ redirect_from:
 ![Linux Penguin Wearing a Fedora](/images/ProfileBackground.png){: .align-right width="250px"}
 👨🏻‍💻 **About Me**
 
-I'm a graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in programming languages such as Python, C++, and C, as well as experience in tools like Wireshark.
+I'm a graduate from Binghamton University with a Bachelor of Science in Computer Science. My education has provided me with a strong foundation in agile software development with languages such as Python, C++, and C.
 
 I believe in leveraging both domains in Software Engineering and IT to enhance productivity in a Technical landscape as shown during my internship at Deltek, where I served as a System Administrator in the IT Infrastructure Team.
 
